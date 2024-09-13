@@ -1,8 +1,19 @@
-# React + Vite
+# Image Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React.js application that allows users to upload an image, convert it to different formats, and download the converted image. This app supports common formats like PNG, JPEG, and WebP.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Upload an image
+- Convert image to PNG, JPEG, or WebP formats
+- Preview the uploaded and converted images
+- Download the converted image
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/image-converter.git
